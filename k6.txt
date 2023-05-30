@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+<title>styl zewnetrzny</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- zewnetrzne -->
+ <LINK href="watroba_zadanie6.css" rel="stylesheet" 
+type="text/CSS">
+</head>
+<body bgcolor="silver">
+ <kys> :)) bardzo szczęsliwy</kys>
+ <p> :3 uśmiechnięty </p>
+  <kys>:| zdziwiony</kys>
+  <p> ;( płacz </p>
+   <kys>:< bardzo smutny</kys>
+   <p> :? zdezorientowany </p>
+ </body>
+</html>
+
+
+p
+{
+color:green;
+font-size:31;
+}
+kys
+{
+color:blue;
+font-size:41;
+}
+

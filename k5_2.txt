@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>styl zewnetrzny</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- zewnetrzne -->
+ <LINK href="watroba_zad_5.2.css" rel="stylesheet" 
+type="text/CSS">
+</head>
+<body bgcolor="silver">
+ <p> Wątroba -> zewnętrzne <br>
+  CSS umożliwia nam łatwiejsze zmienianie albo modyfikowanie kodu   </p>
+ </body>
+</html>
+
+
+p
+ {
+ color:maroon;
+ font-size:51pt;
+ }
