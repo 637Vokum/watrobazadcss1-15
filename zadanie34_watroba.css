@@ -1,0 +1,31 @@
+h1 {
+    width: 300pt;
+    height: 3cm;
+    padding: 20px;
+    margin-left: 50%;
+    border: 7px red inset;
+    background: yellow;
+    font-size: 12px;
+}
+
+      h2 {
+    width: 400pt;
+    height: 4cm;
+    padding: 20px;
+    margin-left: 50%;
+    border: 6px maroon ridge;
+    background: orange;
+    font-size: 12px;
+}
+
+h3 {
+    width: 200pt;
+    height: 2cm;
+    padding: 20px;
+    margin-left: 50%;
+    border: 4px red outset;
+    background: orange;
+    font-size: 12px;
+}
+
+      
